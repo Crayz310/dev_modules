@@ -21,3 +21,4 @@ p2g
 InlineButtons
 ShotModule
 UpgradedNeofetch
+aliasmanager
