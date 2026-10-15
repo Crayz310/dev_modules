@@ -3,12 +3,10 @@
 # **Лицензия на использование контента**
 
 **Версия:** 1.0  
-**Срок действия:** 2025 — 2040  
-**Автор:** © 2025–2040 [dev3quest]  
+**Срок действия:** 2025 — 2035  
+**Автор:** © 2025–2040 [nloverx]  
 **Контакты:**  
-- Telegram: [@dev3quest](https://t.me/dev3quests)  
-- Резерв: [@dev3quest_ksh](https://t.me/dev3quest_ksh)  
-- Email: dev3quest@gmail.com  
+- Telegram: [@nloverx](https://t.me/nloverx)
 
 ---
 
@@ -48,7 +46,7 @@
 ## **English Version (Unofficial Translation)**
 
 **Content License by dev3quest | Valid 2025–2040**  
-Contact: [t.me/dev3quests](https://t.me/dev3quests) | [t.me/dev3quest_ksh](https://t.me/dev3quest_ksh) | dev3quest@gmail.com
+Contact: [@nloverx](https://t.me/nloverx)
 
 **Placing this license anywhere does not grant permission to use any related content. Explicit written approval is required.**
 
